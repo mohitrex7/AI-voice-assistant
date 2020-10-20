@@ -3,61 +3,7 @@ Voice Assistant for Linux
 System Requirement Specifications (SRS)
 FOR
 Voice Based Assistant for Linux
-1. Table of Contents
-1.
- Table of contents
-2.
- Problem Statement
-3.
- Overview
-3.1 Background
-3.2 Overall Description
-4.
- Investigation and Analysis Methodology
-4.1 System Investigation
-4.2 Analysis Methodology
-4.3 Process Flow Diagram
-5.
- Constraints
-5.1 Scalability
-5.2 Internet Issues
-5.3 Google-text-to-speech issues
-6.
- Operational Requirements
-6.1 Help Desk Support
-6.2 Application Services and Technical Support
-6.3 Application Checks and Updates
-7.
- Functional Requirements
-8.
- Input Requirements
-8.1 Good Quality Mic
-8.2 Speak Clear
-8.3 Text Input
-9.
- Process Requirements
-9.1 Supporting Software Requirement
-9.2 Usability
-9.3 Performance
-9.4 Use Case
-9.4.1
- UML Diagram
-9.4.2
- Activity Diagram
-10.
- Output Requirements
-10.1 Module 1-Open Applications
-10.2 Module 2-Play Music
-11.
- Hardware Requirements
-11.1 Network
-11.2 Production Support Systems
-12.
- Software Requirements
-12.1 Operating System
-12.2 Python Setup
-13.
- Deployment Requirements
+
 2. Problem Statement
 To increase the usability of Linux system by designing Voice assistant which will help the user to do most of the tasks,
 indirectly increasing easiness while handling the Linux system.
